@@ -18,7 +18,7 @@ It automatically fetches financial data to determine if the stock is trading at 
 ### How to Run
 1. Install dependencies:
    ```bash
-   pip install yfinance requests beautifulsoup4 matplotlib pandas
+   pip install yfinance requests beautifulsoup4 matplotlib pandas curl_cffi
 
 2. Run the Script
     ```bash
